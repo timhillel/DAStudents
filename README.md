@@ -17,7 +17,7 @@ The repository contains two versions of the notebooks. In the *exercises* folder
 
 If you would like to run the notebooks on your local machine, and have not already installed Python, we would recommend installing [Anaconda Python](https://www.anaconda.com/products/distribution).
 
-You can then launch *jupyter notebook*, either from the Anaconda user interface, or the terminal. 
+You can then launch *jupyter lab*, either from the Anaconda user interface, or the terminal. 
 
 
 ## Running on browser
